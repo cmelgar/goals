@@ -1,0 +1,3 @@
+# goals
+
+- The first project.
